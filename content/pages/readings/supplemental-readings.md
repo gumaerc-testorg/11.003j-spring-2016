@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: af40002f-c04b-84d3-d892-fb6d2cd0d30c
 title: Supplemental Readings
 uid: c3c056a0-304e-ab96-705e-f0f16b0cb2d4

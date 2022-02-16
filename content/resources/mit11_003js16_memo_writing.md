@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding effective memo writing examples.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-003j-methods-of-policy-analysis-spring-2016/ac355083f58e4d738857947048f26298_MIT11_003JS16_Memo_Writing.pdf
+file: /media/courses/11-003j-methods-of-policy-analysis-spring-2016/ac355083f58e4d738857947048f26298_MIT11_003JS16_Memo_Writing.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 11.003JS16 Effective memo writing examples
 uid: ac355083-f58e-4d73-8857-947048f26298

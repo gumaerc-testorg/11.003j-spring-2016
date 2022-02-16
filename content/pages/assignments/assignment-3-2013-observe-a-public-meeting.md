@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: d3206c6f-7ca9-a606-7cda-46d6081839e9
 title: "Assignment 3 \u2013 Observe a Public Meeting"
 uid: b2968fc7-d835-5148-5d94-31db32836ada
