@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: af40002f-c04b-84d3-d892-fb6d2cd0d30c
 resourcetype: Document
 title: 11.003S16 Immunization Policy Slides
 uid: 7bd05932-7c5c-3b80-720d-042212ff8c08

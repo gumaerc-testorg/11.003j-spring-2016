@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: af40002f-c04b-84d3-d892-fb6d2cd0d30c
 resourcetype: Document
 title: 11.003S16 Timeline of Air Quality Policy
 uid: 7f52609c-9917-a5f9-45ad-12423bb962df

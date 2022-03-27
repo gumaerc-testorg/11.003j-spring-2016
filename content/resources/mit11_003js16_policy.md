@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: af40002f-c04b-84d3-d892-fb6d2cd0d30c
 resourcetype: Document
 title: 11.003S16 What is Policy Analysis? Slides
 uid: e9b40acd-e2a1-acfa-40c5-e88a139b0e67

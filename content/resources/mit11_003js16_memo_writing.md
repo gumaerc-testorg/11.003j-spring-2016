@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d3206c6f-7ca9-a606-7cda-46d6081839e9
 resourcetype: Document
 title: 11.003JS16 Effective memo writing examples
 uid: ac355083-f58e-4d73-8857-947048f26298
