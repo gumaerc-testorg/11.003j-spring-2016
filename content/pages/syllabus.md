@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains details about course requirements and expectations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +15,7 @@ Sessions: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-This course builds on [_11.002J Making Public Policy_](/courses/11-002j-making-public-policy-fall-2014/). It assumes that you have already had some familiarity with the basic concepts and terminology of public policy and administration.
+This course builds on [_11.002J Making Public Policy_](/courses/11-002j-making-public-policy-fall-2014). It assumes that you have already had some familiarity with the basic concepts and terminology of public policy and administration.
 
 Course Overview
 ---------------
@@ -40,11 +41,11 @@ Requirements
 
 1.  ### Text
     
-    We will be using [readings]({{< baseurl >}}/pages/readings) from multiple textbooks.
+    We will be using {{% resource_link af40002f-c04b-84d3-d892-fb6d2cd0d30c "readings" %}} from multiple textbooks.
     
 2.  ### Supplemental Readings and Case Studies
     
-    Additional readings, as necessary, will be made available in the [Supplemental Readings]({{< baseurl >}}/pages/readings/supplemental-readings) section.
+    Additional readings, as necessary, will be made available in the {{% resource_link c3c056a0-304e-ab96-705e-f0f16b0cb2d4 "Supplemental Readings" %}} section.
     
 3.  ### Class Participation (20% of Final Grade)
     

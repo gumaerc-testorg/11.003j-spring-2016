@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains details about the fourth assignment for 11.003J
+  from spring 2016.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

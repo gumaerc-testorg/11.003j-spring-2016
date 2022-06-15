@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains details about the third assignment for 11.003J
+  from spring 2016.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +27,7 @@ This exercise is meant to help you exercise your skills of observation, and to h
 
 ### Appropriate Meetings
 
-There is a list of links to public meetings in the [Assignments]({{< baseurl >}}/pages/assignments) section. Ideally, the meeting you choose will engage a combination of planning professionals and community stakeholders, and we encourage you to avoid routine business meetings for government bodies such as city councils (these may be listed as "open to the public," but are not designed to function as planning meetings that involve public participation).
+There is a list of links to public meetings in the {{% resource_link d3206c6f-7ca9-a606-7cda-46d6081839e9 "Assignments" %}} section. Ideally, the meeting you choose will engage a combination of planning professionals and community stakeholders, and we encourage you to avoid routine business meetings for government bodies such as city councils (these may be listed as "open to the public," but are not designed to function as planning meetings that involve public participation).
 
 ### Structure and Format
 
