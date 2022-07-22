@@ -1,26 +1,30 @@
 ---
 content_type: page
+description: This section contains details about course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: d3206c6f-7ca9-a606-7cda-46d6081839e9
 ---
 
-[Assignment 1]({{< baseurl >}}/pages/assignments/assignment-1-2013-hometown-analysis) – Hometown Analysis
+{{% resource_link 8a834ebf-9875-aa0c-4d01-8258ad1f859b "Assignment 1" %}} – Hometown Analysis
 ---------------------------------------------------------------------------------------------------------
 
 ### Due Session 3
 
 Using your hometown as the subject of your investigation, assume that you are a policy analyst and you work for the new mayor or the new town or city council. What data can you use to tell a story about your hometown?
 
-[Assignment 2]({{< baseurl >}}/pages/assignments/assignment-2-2013-epa-open-docket-on-pesticides) – EPA Open Docket On Pesticides
+{{% resource_link ee33eb93-3278-81e3-85cc-795888222889 "Assignment 2" %}} – EPA Open Docket On Pesticides
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ### Due Session 8
 
 Write a memo of comments to the Environmental Protection Agency voicing your stance on pesticides and their effects on pollinators.
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Effective Memo Writing Examples (PDF)]({{< baseurl >}}/resources/mit11_003js16_memo_writing)
+{{% resource_link "ac355083-f58e-4d73-8857-947048f26298" "Effective Memo Writing Examples (PDF)" %}}
 
-[Assignment 3]({{< baseurl >}}/pages/assignments/assignment-3-2013-observe-a-public-meeting) – Observe A Public Meeting
+{{% resource_link b2968fc7-d835-5148-5d94-31db32836ada "Assignment 3" %}} – Observe A Public Meeting
 -----------------------------------------------------------------------------------------------------------------------
 
 ### Due Session 12
@@ -49,14 +53,14 @@ MIT students were required to attend a public meeting in the Boston area and wri
 
 [City of Somerville Public Meetings](https://somervillecityma.iqm2.com/Citizens/calendar.aspx)
 
-[Assignment 4]({{< baseurl >}}/pages/assignments/assignment-4-2013-open-ended) – Open-ended
+{{% resource_link 71075161-6b3b-0f5e-c597-1be17a56214f "Assignment 4" %}} – Open-ended
 -------------------------------------------------------------------------------------------
 
 ### Due Session 17
 
 The last short assignment is open-ended and you may choose to either prepare for your final project or to re-write a previous assignment.
 
-[Final Assignment]({{< baseurl >}}/pages/assignments/final-assignment)
+{{% resource_link 69001786-622e-217c-0d06-3eba3e6f777b "Final Assignment" %}}
 ----------------------------------------------------------------------
 
 ### Oral Presentations _Due Sessions 23–25_

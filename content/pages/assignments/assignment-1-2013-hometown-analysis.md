@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section contains details about the first assignment for 11.003J
+  from spring 2016.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: d3206c6f-7ca9-a606-7cda-46d6081839e9
 title: "Assignment 1 \u2013 Hometown Analysis"
 uid: 8a834ebf-9875-aa0c-4d01-8258ad1f859b

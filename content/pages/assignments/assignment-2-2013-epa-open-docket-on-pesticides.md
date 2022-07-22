@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section contains details about the second assignment for 11.003J
+  from spring 2016.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: d3206c6f-7ca9-a606-7cda-46d6081839e9
 title: "Assignment 2 \u2013 EPA Open Docket on Pesticides"
 uid: ee33eb93-3278-81e3-85cc-795888222889

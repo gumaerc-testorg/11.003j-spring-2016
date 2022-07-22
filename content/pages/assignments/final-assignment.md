@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section contains details about the final assignment for 11.003J
+  from spring 2016.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: d3206c6f-7ca9-a606-7cda-46d6081839e9
 title: Final Assignment
 uid: 69001786-622e-217c-0d06-3eba3e6f777b
