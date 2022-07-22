@@ -5,6 +5,7 @@ file: /courses/11-003j-methods-of-policy-analysis-spring-2016/7bd059327c5c3b8072
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 11.003S16 Immunization Policy Slides
 uid: 7bd05932-7c5c-3b80-720d-042212ff8c08
 ---
 This resource contains the information regarding immunization policy. 
-
