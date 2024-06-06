@@ -19,9 +19,9 @@ Due Session 8
 
 The EPA has opened docket ID: EPA-HQ-OPP-2008-0844 to review neonicotinoids, pesticides that may have an adverse effect on pollinators, including bees. You have been asked by your client to review the EPA primary and supporting documents and provide a 2-page memo of comments to the EPA stating your position. You may choose your client. Decide who you will represent—an advocacy group, a state environmental protection agency, a farmer, etc.
 
-Commenting on EPA Dockets - {{% resource_link "35bf3b7b-7831-4f5f-ba0b-ccd2ff219a28" "Tips for Effective Comments" %}}
+Commenting on EPA Dockets - [Tips for Effective Comments](https://www.epa.gov/dockets/commenting-epa-dockets#tips)
 
-{{% resource_link "f93669fc-4484-4ced-887c-0c2efab0edc6" "EPA Docket, Primary and Supplementary Documents" %}}
+[EPA Docket, Primary and Supplementary Documents](http://www.regulations.gov/docket?D=EPA-HQ-OPP-2008-0844)
 
 **Expected Output**
 
