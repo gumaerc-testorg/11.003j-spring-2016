@@ -28,7 +28,7 @@ Provan, Keith G, and Milward H. Brinton. "[Do Networks Really Work? A Framework 
 
 ### Policy Process
 
-Shulock, Nancy. "[The Paradox of Policy Analysis: If It is Not Used, Why Do We Produce So Much of It?](https://doi.org/10.1002/(SICI)1520-6688(199921)18:2%3C226::AID-PAM2%3E3.0.CO;2-J)18:2\<226::AID-PAM2>3.0.CO;2-J)" *Journal of Policy Analysis and Management* 18, no. 2 (1999): 226–44.
+Shulock, Nancy. "[The Paradox of Policy Analysis: If It is Not Used, Why Do We Produce So Much of It?](https://doi.org/10.1002/\(SICI\)1520-6688\(199921)18:2%3C226::AID-PAM2%3E3.0.CO;2-J)18:2\<226::AID-PAM2>3.0.CO;2-J)" *Journal of Policy Analysis and Management* 18, no. 2 (1999): 226–44.
 
 Rodrik, Dani. "[Diagnostics Before Prescription](http://dx.doi.org/10.1257/jep.24.3.33)." *Journal of Economic Perspectives* 24, no. 3 (2010): 33–44.
 
@@ -40,7 +40,7 @@ Oliveira, Vitor, and Paulo Pinho. "[Evaluation in Urban Planning: Advances and P
 
 Rondinelli, Dennis A., James S. McCullough, et al. "[Analysing Decentralization Policies in Developing Countries: A Political‐economy Framework](http://dx.doi.org/10.1111/j.1467-7660.1989.tb00340.x)." *Development and Change* 20, no. 1 (1989): 57–87.
 
-Sanyal, Bishwapriya. "[Antagonistic Cooperation: A Case Study of Nongovernmental Organizations, Government and Donor's Relationships in Income-generating Projects in Bangladesh](http://dx.doi.org/10.1016/0305-750X(91)90079-W)." *World Development* 19, no. 10 (1991): 1367–79.
+Sanyal, Bishwapriya. "[Antagonistic Cooperation: A Case Study of Nongovernmental Organizations, Government and Donor's Relationships in Income-generating Projects in Bangladesh](http://dx.doi.org/10.1016/0305-750X\(91\)90079-W)." *World Development* 19, no. 10 (1991): 1367–79.
 
 Heckman, James J. "[Micro Data, Heterogeneity, and the Evaluation of Public Policy: Nobel Lecture](http://www.jstor.org/stable/10.1086/322086)." *Journal of Political Economy* 109, no. 4 (2001): 673–748.
 
@@ -56,7 +56,7 @@ First Nations Development Institute. ["Borrowing Trouble: Predatory Lending in N
 
 Ingram, Gregory K, and Yu-Hung Hong. ["Evaluating Smart Growth Policies in the United States." (PDF - 1.3MB)](https://www.lincolninst.edu/sites/default/files/pubfiles/evaluating-smart-growth-full.pdf) Informationen zur Raumentwicklung, 2012.
 
-Tendler, Judith, and Sara Freedheim. "[Trust in a Rent-seeking World: Health and Government Transformed in Northeast Brazil](http://dx.doi.org/10.1016/0305-750X(94)90173-2)." *World Development* 22, no. 12 (1994): 1771–91.
+Tendler, Judith, and Sara Freedheim. "[Trust in a Rent-seeking World: Health and Government Transformed in Northeast Brazil](http://dx.doi.org/10.1016/0305-750X\(94\)90173-2)." *World Development* 22, no. 12 (1994): 1771–91.
 
 Burtless, Gary. "[The Case for Randomized Field Trials in Economic and Policy Research](http://www.jstor.org/stable/2138167)." *The Journal of Economic Perspectives* 9, no. 2 (1995): 63–84.
 
@@ -77,5 +77,3 @@ Young, Jeff. "[The Battle for Cape Wind](http://www.loe.org/shows/shows.html?pro
 Census Bureau, U. S. "[A Compass for Understanding and Using American Community Survey Data: What High School Teachers Need to Know](https://archive.org/details/ERIC_ED505037)." (2008).
 
 [United States Census Bureau](http://www.census.gov/)
-
-[American Fact Finder](http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)
