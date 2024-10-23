@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding timeline of air quality
   policy.
-file: /courses/11-003j-methods-of-policy-analysis-spring-2016/7f52609c9917a5f945ad12423bb962df_MIT11_003JS16_Air_Quality.pdf
+file: /ol-ocw-studio-app/courses/11-003j-methods-of-policy-analysis-spring-2016/7f52609c9917a5f945ad12423bb962df_MIT11_003JS16_Air_Quality.pdf
 file_size: 794729
 file_type: application/pdf
 learning_resource_types:
