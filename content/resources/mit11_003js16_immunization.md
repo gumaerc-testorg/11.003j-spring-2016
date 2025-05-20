@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains the information regarding immunization policy. '
-file: /ol-ocw-studio-app/courses/11-003j-methods-of-policy-analysis-spring-2016/7bd059327c5c3b80720d042212ff8c08_MIT11_003JS16_Immunization.pdf
+file: /courses/11-003j-methods-of-policy-analysis-spring-2016/7bd059327c5c3b80720d042212ff8c08_MIT11_003JS16_Immunization.pdf
 file_size: 950063
 file_type: application/pdf
 learning_resource_types:
