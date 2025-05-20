@@ -97,7 +97,7 @@ Shah, Tina. "[Obama Sets Up Task Force to Curb Decline in Honeybee Population](h
 
 Hagopian, Joachim. "[Death and Extinction of the Bees](http://www.globalresearch.ca/death-and-extinction-of-the-bees/5375684)," *Global Research*, October 4, 2016.
 
-Obama, Barack. "[Presidential Memorandum–Creating a Federal Strategy to Promote the Health of Honey Bees and Other Pollinators](https://www.whitehouse.gov/the-press-office/2014/06/20/presidential-memorandum-creating-federal-strategy-promote-health-honey-b)." *Office of the Press Secretary, The White House* (2014).
+Obama, Barack. "[Presidential Memorandum–Creating a Federal Strategy to Promote the Health of Honey Bees and Other Pollinators](https://www.fs.usda.gov/wildflowers/pollinators/documents/PresMemoJune2014/PresidentialMemo-PromoteHealthPollinators.pdf)." *Office of the Press Secretary, The White House* (2014).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -209,7 +209,7 @@ Guest: Dr. Howard Heller, Associate Medical Director at MIT Medical
 
 {{< tdclose >}}{{< tdopen >}}
 
-Salmon, Daniel A., Stephen P. Teret, et al. "[Compulsory Vaccination and Conscientious or Philosophical Exemptions: Past, Present, and Future](http://dx.doi.org/10.1016/S0140-6736(06)68144-0)." *The Lancet* 367, no. 9508 (2006): 436–42.
+Salmon, Daniel A., Stephen P. Teret, et al. "[Compulsory Vaccination and Conscientious or Philosophical Exemptions: Past, Present, and Future](http://dx.doi.org/10.1016/S0140-6736%2806%2968144-0)." *The Lancet* 367, no. 9508 (2006): 436–42.
 
 Holland, Mary. ["Compulsory Vaccination, the Constitution, and the Hepatitis B Mandate for Infants and Young Children." (PDF - 2.9MB)](http://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1194&context=yjhple) *Yale Journal of Health Policy, Law, and Ethics* 12, no. 1 (2012): 39.
 
