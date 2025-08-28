@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding what is policy analysis?
-file: /courses/11-003j-methods-of-policy-analysis-spring-2016/e9b40acde2a1acfa40c5e88a139b0e67_MIT11_003JS16_Policy.pdf
+file: /ol-ocw-studio-app/courses/11-003j-methods-of-policy-analysis-spring-2016/e9b40acde2a1acfa40c5e88a139b0e67_MIT11_003JS16_Policy.pdf
 file_size: 1345366
 file_type: application/pdf
 learning_resource_types:

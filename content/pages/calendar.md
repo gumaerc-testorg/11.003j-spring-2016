@@ -138,7 +138,7 @@ Assignment 4 due
 
 Case: Air Emissions Policy; Federal Policy
 
-Guest: [Coralie Cooper](https://www.volpe.dot.gov/content/cooper-coralie), Environmental Protection Specialist at Volpe
+Guest: [Coralie Cooper](https://www.linkedin.com/in/coralie-cooper-a067ba11/), Environmental Protection Specialist at Volpe
 
 {{< tdclose >}}{{< tdopen >}}
  
