@@ -116,7 +116,7 @@ Social Insurance
 
 Health Policy – Vaccination Case
 
-Guest: [Dr. Howard Heller](https://hst.mit.edu/faculty-research/faculty/heller-howard), Associate Medical Director at MIT Medical
+Guest: {{% resource_link "632f847e-150e-4268-91b9-c1414b7f3bbe" "Dr. Howard Heller" %}}, Associate Medical Director at MIT Medical
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -126,7 +126,7 @@ Guest: [Dr. Howard Heller](https://hst.mit.edu/faculty-research/faculty/heller-h
 
 City Government Policy and the Media
 
-Guest: [David Goodman](http://www.nytimes.com/by/j-david-goodman), City Hall Reporter at The New York Times
+Guest: {{% resource_link "e453ebe0-6072-4ff1-8d74-13f227e3073f" "David Goodman" %}}, City Hall Reporter at The New York Times
 
 {{< tdclose >}}{{< tdopen >}}
 Assignment 4 due
@@ -138,7 +138,7 @@ Assignment 4 due
 
 Case: Air Emissions Policy; Federal Policy
 
-Guest: [Coralie Cooper](https://www.linkedin.com/in/coralie-cooper-a067ba11/), Environmental Protection Specialist at Volpe
+Guest: {{% resource_link "12c4e9bb-7449-4c61-b9f6-a931efa571bd" "Coralie Cooper" %}}, Environmental Protection Specialist at Volpe
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -148,7 +148,7 @@ Guest: [Coralie Cooper](https://www.linkedin.com/in/coralie-cooper-a067ba11/), E
 
 Case: Seed Conservation – New England Wild Flower Society; Regional Policy
 
-Guest: Debbi Edelstein, Executive Director of [New England Wild Flower Society](http://www.newenglandwild.org/about)
+Guest: Debbi Edelstein, Executive Director of {{% resource_link "27897a18-695c-4790-bfe7-cfb4b8540a99" "New England Wild Flower Society" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
